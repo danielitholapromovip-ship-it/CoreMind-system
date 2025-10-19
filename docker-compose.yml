@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  coremind:
+    build: .
+    container_name: coremind_system_bot
+    env_file: .env
+    volumes:
+      - ./sessions:/app/sessions
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
