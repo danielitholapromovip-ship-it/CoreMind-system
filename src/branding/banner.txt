@@ -1,0 +1,7 @@
+CoreMind System Bot
+───────────────────
+🚀 Modular • WhatsApp • Telegram • Discord • Web
+Prefix: !
+Author: Dany
+
+(Ver README.md para instrucciones)
